@@ -1,0 +1,25 @@
+# The Problem With Teal
+
+Teal organizations, as described in the book [Reinventing Organizations](http://www.reinventingorganizations.com), are an advanced way of doing work with (almost)[^Teal] no management.  I want to be clear: this seems to me a wonderful departure from the typical, bureacratic enterprise but I do not believe for an instant that Teal is the end of the story.  Evolution has not been working so hard to then stop at Teal -- the universe is providing us with endless opportunity to improve and I expect Teal will be a mere footnote in history.
+
+[^Teal]: "self-management" is a key aspect of Teal organizations.  Therefore the word 'management' still appears and is integral to the theory.
+
+The problem with Teal is exemplified by the article, [The Future of Management Is Teal](http://strategy-business.com/article/00344?gko=10921 "Article by Frederic Laloux") published at [stategy+business](http://www.strategy+business.com) and written by one author of _Reinventing Organizations_, Frederic Laloux.  In his article, Laloux uses language commonly applied to even the most bureaucratic, industrial, 'Red' through 'Orange', organizations.  For example, he writes:
+
+> "A number of pioneering organizations in a wide variety of sectors...are already operating with _significantly new structures and management practices_".
+
+Hmmm.  _Any_ management practice is one based on 'management' and all of its meanings.  Teal therefore inherits the elements of control, command, and manipulation -- if that wasn't the intent of the authors then why did they not choose a different word?  (Remember: [Old words can take on new meanings, but they do not shed old meanings.](#NewMeanings))
+
+> A colour scheme, from Red to Teal is used to categorize "_the successive stages of management evolution_".
+
+If Teal must be described as a stage of management evolution then it begs the question whether it's a departure, or not, from our old ways.
+
+> And the phrase 'self-managing' is used repeatedly.
+
+Perhaps the intended audience for the book and the article are not _ready_ for the phrase 'self-organizing'?  Perhaps the authors _meant_ to describe, in Teal organizations, a post-management ideal but have continued using the word 'management' to make the theory more palatable to the C-level executives of Red and Orange companies (no doubt an important audience in which to sell lucrative consulting engagements).  Is this why the words 'self-managing' and 'management' be so integral to the theory?  Perhaps, I'd suggest, the authors are aware of their audience and thus tempering their pseudo-radical world view with contemporary terms ("strategy+business" is supported by Price Waterhouse Cooper, one of the strongholds of typical management consultanthh).  We may never know the authors' intentions -- use the word 'management' to include its full meaning or use it to avoid being perceived as new-agey so as to sell more books to the business-minded audience.
+
+Either way, this use of typical terms and business jargon will scream _"anachronistic!"_ to people who have experience with radical decentralized decision-making in truly self-organizing companies.  And that is ultimately the point of this chapter: in order to help the managers of today understand their obsolence in the future, one must describe Teal in today's context.  In the coming decades therefore, when we reminisce upon 2014 and think about Teal, it will all seem just as awkward as the video phone below, as laughable as the products imagined by [futurists](http://www.google.ca/search?q=futurism+products&tbm=isch&tbo=u), as misinformed as the [Geocentric model of the universe](http://en.wikipedia.org/wiki/Geocentric_model).  That is, these predictions of future are all wonderful but fatally limited, both conceptually and practically, by contemporary context.
+
+![iiPhone: A video phone by Bondwell](images/upload-wikimedia-org-wikipedia-commons-f-f9-IiPhone-IMG_1446.jpg "Picture of iiPhone by Bondwell, a video phone.")[^CCBYSA20FR].
+
+[^CCBYSA20FR]: Image shared via [CC BY-SA 2.0 FR: Creative Commons Attribution-ShareAlike 2.0 France](http://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)

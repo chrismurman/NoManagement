@@ -1,0 +1,42 @@
+# Human(e) Systems Without Management
+
+## Hotelling: Example
+
+I recently spent a week in Orlando with my family.  In fact, all employees of our company travelled together to a conference and were accompanied by all our families.  The resort where we stayed had numerous restaurants, a large pool, activities for children and adults, a large conference venue, transportation to the nearest tourist sites, and cozy rooms.
+
+We achieved our goals: rest, relaxation, a little business.  We achieved those goals within specific constraints: don’t spend too much, stay safe.
+
+How, you might ask, did we fare so well given that we did not have a manager?  Surely, we needed to have somebody tell us what to do?  Surely, we must have had somebody informing us of our schedule and our budget each day?  Surely, somebody must have coordinated our activities with the activities of all other groups at the same resort to ensure we did not collide, eat each others’ food, sleep in the wrong beds, use the bathrooms incorrectly.  Surely, somebody created a budget, a project plan, and resource assignments?  Surely, managers were required to keep us all organized, coordinated, motivated, and on track!?
+
+Okay, that is all very tongue-in-cheek and you are no doubt suspicious of the logic and you say, “But the hotel surely has managers!”
+
+Maybe they do -- but how the resort runs its business is up to them.  If anybody employed at that resort had a job title with the word ‘Manager’ in it they certainly were not managing my family.  My family is a truly autonomous team and the
+hotel did not manage us -- that is, nobody at the hotel exerted their will upon us.
+
+Our decisions were governed by circumstance and the rules of the hotel but our decisions were not controlled by any other person (I.e. we were not being managed).
+
+Hotels are a well-known system in which autonomous people and groups thrive without management.  Let’s consider hotelling systems in more depth using my family's stay in Orlando as an example:
+
+-  The hotel/resort informed us of clear and explicit rules about how my family shall interact with their business and with their facilities.  Examples:
+--  prices are explicit for all goods and services my family requires during our stay;
+--  the pool is open from 9:00 am to 10:00 pm;
+--  poolside movies for children occur every evening at 7:00 pm;
+--  smoking is not allowed in the room and the consequences are clear;
+--  if we placed a specific signal on our door then the cleaning staff would clean our room while we were away.
+-  The hotel provided us many food and beverage options, each with their unique service levels.  Examples:
+--  we could request food be delivered to our room (I.e. room service) and gratuities were added automatically;
+-- the many restaurants each havd unique menus and venues and tips were expected but not included automatically;
+-- food could be ordered poolside but only from the poolside bistro and good tips resulted in complimentary beach balls or pool toys.
+-  The windows in our room opened only a few centimeters, not enough that any adult or child could slip through and fall to their death.
+-  If any interface or service offered within the resort was not clear to us, we could dial the front desk and receive technical support.
+-  All guests of the hotel can choose their own arrival and departure dates.
+-  Guests of the hotel each generate their own revenues and contribute to the hotel via the procurement of goods and services.
+-  The hotel's operation, service design, and interfaces are the result of many years of customer interaction and feedback within a competitive market (I.e. the design and requirements have emerged).
+
+During our stay, many other families in the same resort were conducting their own activities, making their own autonomous decisions, and achieving their own goals similarly related to rest, relaxation, and perhaps business.  Because we had travelled with our friends, we often coordinated our activities so that we would enjoy activities together such as meals, pool visits, and pleasant walks to nearby tourist attractions.
+
+All that without anybody 'managing' us.
+
+## Hotelling: Comparisons
+
+Hotelling, as described above is similar to the ways in which families interact with their neighbourhoods, their municipalities, provinces, and states.
