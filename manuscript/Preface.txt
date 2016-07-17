@@ -5,3 +5,5 @@ As this text is primarily an examination of the word 'management' as used in mod
 This book is a study but is not based on disciplined academic research.  It is full of my opinion and I do not intend to *prove* anything.
 
 I write this book for everyone who has been managed.
+
+Feedback is welcome: [leanpub.com/nomanagement/feedback](http://leanpub.com/nomanagement/feedback)
