@@ -1,0 +1,1 @@
+A Post-Industrial Imperative.  Get it at [leanpub.com/NoManagement](http://leanpub.com/NoManagement).
