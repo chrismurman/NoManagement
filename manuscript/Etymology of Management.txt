@@ -2,7 +2,24 @@
 
 ![Etymology of Management](images/Etymology of Manager (Portrait).png "Etymology of Management")
 
-Etymology indicates the word 'management' has origins in animal husbandry.  Managers may argue that 'management' therefore meant _to care for_ the animals; but, no, that is what 'husbandry' means.  Management is not about caring.  It's about handling the animals, and handling an animal means using it like a tool (a handle, a tool in a man's hand).  As illustrated above, the words 'handle' and 'manage' have a shared past and both are related to the domestication and use of animals as tools.
+Our muscles can only contract.  We cannot protract a muscle.  That is, in order to bend our arm we must coordinate the contraction of some muscles while simultaneously relaxing others.  The tricep and bicep, for example, are primarily reponsible for moving our arms at the elbow and in order for our bicep to bend our arm our tricep must relax; likewise, to straighten our arm, the bicep must relax while the tricep pulls the forearm against the elbow joint.  In order to describe this essential physiology, every known language contains ancient and complementary words which mean "to seize" and "to let go" -- to contract and relax, to pull and release.
+
+English speakers have inherited two such words from early Germanic languages:
+
+- hinþaną:
+  - a proto-Germanic verb which meant "to obtain" or "to seize";
+- hantalōn:
+  - a proto-Germanic verb which meant "to let go" or "to offer".
+
+Those two words led to 'handuz', also from ancient Germanic languages, which meant 'hand'.  You see, our hand can seize and let go, close then open, contract then relax.
+
+Those words together describe the actions required to control our limbs and digits and, by extension, to manipulate tools.  Further examination of those words will reveal that 'hantalōn' is also the ancestor of 'handle' and 'handling' -- which directly describe the deliberate manipulation of tools (eg. handles).  To control our own body we must coordinate the pulling and letting-go of our muscles.  To control tools, we must 'seize' them with our hands and pull or release them.
+
+The proto-Germanic 'handuz', which is the ancestor of 'hand' and other derivates in English, has a parallel in ancient Latin: 'manus' which meant "belonging to the hand" (where 'belonging' implies ownership as in "power over").  'Manus' and its derivates were applied to the practices related to the domestication and taming of animals.  Arguably the most powerful tools of pre-industrial business and agriculture, we learned to control animals similar to the way we learned to weild axes and hammers -- by seizing and/or releasing them.  The reins, for example, are a tool that we hold in our hands and pull against the neck of a horse, and by pulling the rein we control its direction.  The horse knows to obey the signal through repeated and often unpleasant training.  This act of pulling the reins to control animals is called 'maneggiare' -- an Italian word which literally means 'wirepulling'.
+
+And there is the link.
+
+Therefore, etymology indicates the word 'management' has origins in animal husbandry.  Managers may argue that 'management' therefore meant "to care for" the animals; but, no, that is what 'husbandry' means.  Management is not about caring.  It's about handling the animals, and handling an animal means using it like a tool (a handle, a tool in a man's hand).  As illustrated above, the words 'handle' and 'manage' have a shared past and both are related to the domestication and use of animals as tools.
 
 ## Modern Application
 
