@@ -1,10 +1,16 @@
 # You're A Manager? Yes, You Might Be Evil.
 
-I believe empathy permits us to love.  Understanding the plight of another enables us to share their feelings and develop interpersonal connections.  Lack of empathy, that is apathy, is therefore the enabler of ignorance, selfishness and even hatred.  Empathy is to love as selfishness is to evil.
+I believe empathy enables us to love.  Understanding the plight of another helps us to experience their emotions and develop interpersonal connection.  Understanding the plight of oneself helps us to be mindful of our own feelings and develop intrapersonal connection.  Lack of empathy, that is apathy, is the enabler of ignorance and even hatred -- toward others or oneself.
 
-Selfishness and ignorance, these qualities of apathy, are required of people who exert their will upon others.  These qualities are easiest to identify in rapists, murderers, slave masters, abusive parents, and bullies.  These qualities are more difficult to acknowledge, but no less true, in managers.  The propensity to exert our will upon others is true of all humans and manifest to varying degrees in all social systems including friendships, families, communities, and governments.  To the extent we have developed our emotional intelligence, calmed our egoist inclination and achieved self-actualization, we can subdue our base desire to exert our will upon others.  This aspect of human nature is tolerated to varying degrees in conventional human systems; for example, nobody second-guesses a parent who puts brocolli on a child's plate; and everybody expects their local police service to enforce law; but moral lines are drawn to stamp out undesirable, though naturally occuring, behaviours.
+Empathy is to love as apathy is to hate.
 
-Where does management fall on such a spectrum?  Well, let's be clear, management is the practice of exerting one's will upon others.  Either:
+Selfishness and ignorance are qualities of apathy; these qualities are *required* of people who exert their will upon others.  Selfishness is a decision or pattern of ignoring others.  Stated another way, when a person exerts their will upon others, they do so by forgetting all but themselves.  This truth is easiest to observe in rapists, murderers, slave masters, abusive parents, and bullies.  Considering those extremes, it is possible to understand that when a person take a life they *must* disassociate themselves from their victim; otherwise, the suffering of their victim would immediately cause intolerable remorse that they'd not be able to commit the murder.  If the bully cares too much for their victim, the bullying causes empathic pain to the bully so they must stop for the sake of self-preservation.  
+
+Empathy is to love as selfishness is to evil.
+
+The propensity to exert our will upon others is true of all humans and manifest to varying degrees in all social systems including families, friendships, communities, businesses, and governments.  This aspect of human nature is tolerated to varying degrees in conventional human systems; for example, nobody second-guesses a parent who puts brocolli on a child's plate; and everybody expects their local police service to enforce law; but moral lines are drawn to stamp out undesirable behaviours.  Thus, the extent to which we have developed our emotional intelligence, calmed our egoist inclination and achieved self-actualization, we can subdue our base desire to exert our own will upon others.
+
+These qualities are more difficult to acknowledge, but no less true, in managers.  Management is the practice of exerting one's will upon others.  Either:
 
 - explicitly
   - through the defining of procedures and delegation of work,
@@ -12,3 +18,5 @@ Where does management fall on such a spectrum?  Well, let's be clear, management
   - through all other acts (intentional or conventional) of subordination.
 
 I know some readers will claim I have cherry-picked these facts or that I am too focused on the word's etymology and have not allowed for modern interpretations. (See Also: [Etymology of Management](#EtymologyOfManagement).)
+
+Where does management fall on such a spectrum?
