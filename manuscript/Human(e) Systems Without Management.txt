@@ -1,12 +1,20 @@
 # Human(e) Systems Without Management
 
-## Hotelling: Example
+## Cities
 
-I recently spent a week in Orlando with my family.  In fact, all employees of our company travelled together to a conference and were accompanied by all our families.  The resort where we stayed had numerous restaurants, a large pool, activities for children and adults, a large conference venue, transportation to the nearest tourist sites, and cozy rooms.
+### Example
 
-We achieved our goals: rest, relaxation, a little business.  We achieved those goals within specific constraints: don’t spend too much, stay safe.
+### Comparisons
 
-How, you might ask, did we fare so well given that we did not have a manager?  Surely, we needed to have somebody tell us what to do?  Surely, we must have had somebody informing us of our schedule and our budget each day?  Surely, somebody must have coordinated our activities with the activities of all other groups at the same resort to ensure we did not collide, eat each others’ food, sleep in the wrong beds, use the bathrooms incorrectly.  Surely, somebody created a budget, a project plan, and resource assignments?  Surely, managers were required to keep us all organized, coordinated, motivated, and on track!?
+## Hotelling
+
+### Example
+
+I recently spent a week in Orlando with my family.  In fact, all employees of our company travelled together to a conference and were accompanied by all our families.  The resort where we stayed had numerous restaurants, a large pool, activities for children and adults, a large conference venue, transportation to the nearest tourist sites, and cozy rooms.  While we were there, the resort hosted a conference for a few thousand guests all of whom required food, washrooms, and physical space.
+
+We achieved our goals: rest, relaxation, and some business.  We achieved those goals within specific constraints: don't spend too much, stay safe.
+
+You might ask: How did we fare so well given that we did not have a manager?  Surely, we needed to have somebody tell us what to do?  Surely, we must have had somebody informing us of our schedule and our budget each day?  Surely, somebody must have coordinated our activities with the activities of all other groups at the same resort to ensure we did not collide, eat each others’ food, sleep in the wrong beds, use the bathrooms incorrectly.  Surely, somebody created a budget, a project plan, and resource assignments?  Surely, managers were required to keep us all organized, coordinated, motivated, and on track!?
 
 Okay, that is all very tongue-in-cheek and you are no doubt suspicious of the logic and you say, “But the hotel surely has managers!”
 
@@ -37,6 +45,14 @@ During our stay, many other families in the same resort were conducting their ow
 
 All that without anybody 'managing' us.
 
-## Hotelling: Comparisons
+### Comparisons
 
 Hotelling, as described above is similar to the ways in which families interact with their neighbourhoods, their municipalities, provinces, and states.
+
+## OSEarth
+
+### History
+
+### Comparisons
+
+- The Venus Project

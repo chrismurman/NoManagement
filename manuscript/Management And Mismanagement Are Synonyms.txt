@@ -1,5 +1,22 @@
 # 'Management' And 'Mismanagement' Are Synonyms
 
-Curiosity led me to this page: [http://www.dictionary.com/browse/mismanagement](http://www.dictionary.com/browse/mismanagement)
+Some words in our language are wierd.  The history and usage of some words is so convoluted that lexicographers and linguists are basically dumbstruck.
 
-I laughed out loud.  The definition and synonyms of 'mismanagement' perfectly describe the behaviours and effects of most managers I have worked with.
+Examples:
+- disorientated -- this word shouldn't exist.  It means the same as 'disoriented'.
+- unthaw -- this word shouldn't be necessary.  It means the same as 'thaw'.
+
+Sometimes we use words that are simply nonsense.  'Management' is one of those words.  Here's why...
+
+
+If a = b & c
+and if d = c & e
+then both a & d = c
+so, a = d
+
+Curiosity led me to this page: 
+[http://www.dictionary.com/browse/mismanagement](http://dictionary.com/browse/mismanagement)
+
+I laughed out loud.
+
+The definition and synonyms of 'mismanagement' perfectly describe the behaviours and effects of most managers I have worked with.
