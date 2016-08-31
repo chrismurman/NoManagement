@@ -8,15 +8,6 @@ Examples:
 
 Sometimes we use words that are simply nonsense.  'Management' is one of those words.  Here's why...
 
-
-If a = b & c
-and if d = c & e
-then both a & d = c
-so, a = d
-
-Curiosity led me to this page: 
 [http://www.dictionary.com/browse/mismanagement](http://dictionary.com/browse/mismanagement)
-
-I laughed out loud.
 
 The definition and synonyms of 'mismanagement' perfectly describe the behaviours and effects of most managers I have worked with.
