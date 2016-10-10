@@ -51,8 +51,13 @@ Hotelling, as described above is similar to the ways in which families interact 
 
 ## OSEarth
 
+- a theory in which a data-driven system can be created to perfectly manage our available finite resources to provide abundance for of all species.
+
 ### History
+
+- Buckminster Fuller's "World Game" > Systems-thinking and game mechanics to influence human behaviour and global governance
 
 ### Comparisons
 
 - The Venus Project
+- "Resource-based Economy"

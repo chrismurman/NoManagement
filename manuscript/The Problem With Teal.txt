@@ -1,8 +1,8 @@
 # The Problem With Teal
 
-Teal organizations, as described in the book [Reinventing Organizations](http://www.reinventingorganizations.com), are an advanced way of doing work with (almost)[^Teal] no management.  I want to be clear: this seems to me a wonderful departure from the typical, bureacratic enterprise but I do not believe for an instant that Teal is the end of the story.  Evolution has not been working so hard to then stop at Teal -- the universe is providing us with endless opportunity to improve and I expect Teal will be a mere footnote in history.
+Teal organizations, as described in the book [Reinventing Organizations](http://www.reinventingorganizations.com), have achievedan advanced manner of coordinating the work of many people with (almost)[^Teal] no management.  I want to be clear: this seems to me a wonderful departure from the typical, bureacratic enterprise but I do not believe for an instant that Teal is the end of the story.  Evolution has not been working so hard to then stop at Teal -- the universe is providing us with endless opportunity to improve and I expect Teal will be a mere footnote in history.
 
-[^Teal]: "self-management" is a key aspect of Teal organizations.  Therefore the word 'management' still appears and is integral to the theory.
+[^Teal]: "self-management" is a key aspect of Teal organizations.  The author(s) continue to use the word 'management' and thus it (and all its historical baggage) is integral to the theory.
 
 The problem with Teal is exemplified by the article, [The Future of Management Is Teal](http://strategy-business.com/article/00344?gko=10921 "Article by Frederic Laloux") published at [stategy+business](http://www.strategy+business.com) and written by one author of _Reinventing Organizations_, Frederic Laloux.  In his article, Laloux uses language commonly applied to even the most bureaucratic, industrial, 'Red' through 'Orange', organizations.  For example, he writes:
 

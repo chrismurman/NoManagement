@@ -1,6 +1,29 @@
 # Can Words Shed Old Meanings? {#NewMeanings}
 
-All words have a lineage.  Linguists study the evolution of words much the same way anthropologists study the evolution of humans.  Authors throughout history, and the ways they wrote words into sentences and poetry, indicate the history of our words and their derivatives.
+All words have a unique lineage.  Etymologists and linguists study the evolution of words much the same way anthropologists study the evolution of humans: by examining human artefacts as evidence.  Authors throughout history provide us a thorough understanding of words, their origins and and derivatives; so by thorough examination of reliefs, tablets, scrolls, journals, text books, we can trace the evolution of words.
+
+The earliest languages, we presume, were comprised of vocabularies which covered basic human needs and activities.  For example, when the first cro-magnon mother gave birth her first utterances would certainly have included sounds which meant 'pain', 'sleep', 'cry', 'hungry', and 'quiet'.  Perhaps such words already existed among earlier species but the physiology of cro-magnon, particularly our jaw muscles and shape, allow for a wide variety of sounds and modern humans would have invented many words rapidly.  For example, as tools were invented, words would have been created to describe each and to instruct children to use and maintain those tools effectively: sharpen, clean, find, throw, carve, push, and pull.  Likewise, words would have been invented to describe day-to-day phenomena such as:
+
+- sun, moon, night, day, stars, clouds and various weather patterns
+- warm, cold, tired, and various bodily conditions
+- animals, plants, landmarks and features in nearby terrain
+- sex and related negotiations and body parts
+- yes, no, go, stay
+- today, tomorrow
+- illness, death
+- food types
+
+Those words evolved and got used in various ways.  Whatever sound was uttered that is the equivalent of English 'sun' may have been used first to describe the big fiery circle in the sky.  Naturally!  But eventually, that same sound may have been used to imply daylight, or warmth, or to desribe the passage of time.  In this way, words and their derivations may transform from nouns to verbs, from concrete to abstract, from a necessity to communicate to the leisure of story-telling.
+
+## Words Can Die
+
+What happens when a language dies?  Well that depends on its popularity and whether or not it has taken written form.  Languages are considered dead when there are no humans who speak the language natively.  Latin, for example, is a dead language -- no person on Earth (that we know of) is born into a family whose traditional language is Latin.  Latin is unique among most dead languages.  It was until recently the official language of the Catholic Church and therefore it has been carefully preserved of course.  It is still possible to study the language in contemporary academic institutions; many people have learned to read and speak fluently so as to translate religious texts into modern languages.  Most dead languages do not enjoy the attention given to Latin.  Of all the languages ever invented, very few have survived to this day and even fewer took written form.
+
+When languages die, individual words may live on.  'Toque' is alive and well; Canadians use it regularly to refer to a winter hat though it was borrowed from _____ TODO.  Modern English is peppered with former Germanic, French, and Latin words.  The day-to-day language of Phillipines is a mixture of Tagalog and regional dialects but is rich with Spanish influence.
+
+Words can die, however.  They die when people stop using them.  Some dead words are gone and lost forever -- we've forgotten them because there was no written record of their existence.  Some dead words have been memorialized -- old English, for example, is remembered, studied, and passed on through the texts of Chaucer or Shakespeare.  Those authors are the only reason modern English speakers have ever heard the word 'fortnight' or remember that 'fathom' and 'league' used to describe distance.
+
+
 
 ## Yes
 

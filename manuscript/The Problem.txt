@@ -1,0 +1,64 @@
+// Purpose of this chapter:
+// To persuade the readers that there is a significant problem which affects us all.
+// Furthermore, there is no solution and, despite modern theories, no known solutions addresses the root cause of the problem.
+// Therefore, this book is necessary and will give insight for early adopters who want to truly address the root cause.
+# What's Going On?
+
+## Evidence
+
+Worldwide, 13% of employees are engaged at work.[^Gallup1]
+
+People leave companies most often to escape their manager.[^Gallup2]
+
+"The cost of losing an employee can cost anywhere from 16% of their salary for hourly, unsalaried employees, to 213% of the salary for a highly trained position!"[^Kantor][^AmericanProgress]
+
+And workplace stress resulting from modern management practices costs our world trillions per year.  In the United States alone, 3 researchers at Harvard Business School indicate that "more than 120,000 deaths per year and approximately 5%–8% of annual healthcare costs are associated with and may be attributable to how U.S. companies manage their work forces".[^JoelGoh]
+
+## Did You Get All That?
+
+Everybody hates their managers.  Even managers hate being managers...and hate each other.  And it costs us _all_ a huge pile of money.  Management practices in modern business are not only antiquated and ineffective, but counter-productive and costly.  The evidence of the problem is all around us: high attrition, demoralized employees, nervous employers, and young businesses without the baggage of bureaucracy, cronyism, and 'management best practices' are outperforming everybody else in the market.  The fact is that, in most organizations, every employee is somewhere on the spectrum from "just hired" to "get me outta here".
+
+Let alone the facts presented above...think instead of your own experience.  Have you ever been held to unrealistic deadlines and expectations?  Have you felt that you lacked influence or excluded from decision about the way work is organized and performed?  Perhaps you've been upset that your ideas haven't been heard?  Have you felt angry that performance targets seem arbitrary?  And among your workmates...have you felt isolated or unfairly treated?  Perhaps others at work have bullied or harrassed you?  Perhaps even an aggressive supervisor?  Perhaps you have felt scrutinized and micro-managed?  Perhaps a manager has taken credit for your work?  Perhaps your compensation or career advancement has suffered due to personal conflict with a manager?  Perhaps you could perform your manager's job better than they could?  Perhaps you have been expected to work long hours, affecting your personal relationships with a partner or child?  Perhaps you have travelled excessive hours without acknowledgement or compensation?  Perhaps you have had to conduct work without access to the appropriate tools, equipment, or resources?
+
+
+
+information about what is going on in the organisation
+feedback on performance
+adequate training to do the job
+equipment/resources to do the job
+Pays and benefits
+The financial rewards associated with a job are important in terms of lifestyle. They are also often perceived to be an indication of an individual's worth and value to the organisation. Although financial reward may not be a prime motivator, it could become a factor if there are other negative aspects of the job.
+Aspects of the job
+These are potential sources of stress that relate to the fundamental nature of the job itself. Factors such as the physical working conditions, type of tasks and the amount of satisfaction derived from the job.
+job is unlikely to change in the next 5–10 years 
+poor physical working conditions
+fear of physical violence
+work performance closely monitored
+organisation changes for change's sake
+dull and repetitive work
+dealing with difficult customers/clients
+lack of enjoyment of job
+*/
+
+
+That's not the problem, however.  All that data merely amounts to a canary in the cole mine, a signal, a warning bell.  All of that data keeps me awake at night -- I worry for my daughters who will someday join the world of work.
+
+## The Problem Is...
+
+The problem is that we, society, have no credible means to change the broken state of the world of work.  We have been trying for 200+ years to improve management and after all this time, the results are dismal.  The problem is that we keep throwing our foreheads against the same brick wall and with each painful blow we expect a different result.
+
+
+[^Gallup1]: The _State of the Global Workplace_, a study published 2013 by Gallup.  Press release here: [http://www.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx](https://goo.gl/ZI2Sm8)
+
+[^Gallup2]: A study published by Gallup in 2015, _State of the American Manager: Analytics and Advice for Leaders_, reveals that 50% of Americans have left a job to "get away from their manager at some point in their career".  When other reasons such as pregnancy, relocation due to spouse, or retirement are removed, escaping a manager is the most common reason people leave their employment.  Summary here: [https://getlighthouse.com/blog/people-leave-managers-not-companies/](https://goo.gl/8UjaKk)  Original report here: [http://www.gallup.com/services/182138/state-american-manager.aspx](https://goo.gl/mWXC7M)
+
+[^Kantor]: From _High Turnover Costs Way More Than You Think_, an article published 2016 by Huffington Post: [http://www.huffingtonpost.com/julie-kantor/high-turnover-costs-way-more-than-you-think_b_9197238.html](https://goo.gl/oZMA3Z)
+
+[^AmericanProgress]: Kantor (above) appears to have read a report published by Center for American Progress who studied the results of 31 case-studies.  Press release here: [https://www.americanprogress.org/issues/economy/report/2012/11/16/44464/there-are-significant-business-costs-to-replacing-employees/](https://goo.gl/7JYSqN)
+
+[^JoelGoh]: Data from a report called _The Relationship Between Workplace Stressors and Mortality and Health Costs in the United States_ by Joel Goh, Jeffrey Pfeffer, and Stefanos A. Zenios.  Original report published here: [http://www.hbs.edu/faculty/Pages/item.aspx?num=50305](https://goo.gl/e2h6D9).  Summary by Forbes here: [http://www.forbes.com/sites/hbsworkingknowledge/2015/01/26/workplace-stress-responsible-for-up-to-190-billion-in-annual-u-s-heathcare-costs/](https://goo.gl/jXitco)
+
+# The Solution
+
+Change the words.
+
