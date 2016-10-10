@@ -7,17 +7,21 @@
 
 ## Let's Look at the Evidence
 
-Worldwide, 13% of employees are engaged at work.^[^Gallup1]^
+Worldwide, 13% of employees are engaged at work. [^Gallup1]
 
-People leave companies most often to escape their manager.[^Gallup2]
+People leave companies most often to escape their manager. [^Gallup2]
 
-"The cost of losing an employee can cost anywhere from 16% of their salary for hourly, unsalaried employees, to 213% of the salary for a highly trained position!"[^Kantor][^AmericanProgress]
+"The cost of losing an employee can cost anywhere from 16% of their salary for hourly, unsalaried employees, to 213% of the salary for a highly trained position!" [^Kantor], [^AmericanProgress]
 
-And workplace stress resulting from modern management practices costs our world **trillions** per year.  In the United States alone, 3 researchers at Harvard Business School indicate that "more than 120,000 deaths per year and approximately 5%–8% of annual healthcare costs are associated with and may be attributable to how U.S. companies manage their work forces".[^JoelGoh]
+And workplace stress resulting from modern management practices costs our world **trillions** per year.  In the United States alone, 3 researchers at Harvard Business School indicate that "more than 120,000 deaths per year and approximately 5%-8% of annual healthcare costs are associated with and may be attributable to how U.S. companies manage their work forces". [^JoelGoh]
 
-## Did You Get All That?
+## Let That Sink In Just A Little
 
-Most everybody despises their managers.  Even managers despise being managers...and managers despise even each other.  If you're a manager, statistics indicate a 1 in 3 chance that you are currently medicated, drunk, or on vacation to escape the regret and resentment of your daily grind.  Everybody is trying to escape management and and it costs us _all_ huge piles of money...continuously.  Management practices in modern business are not only antiquated and ineffective, but counter-productive and costly.  The evidence of the problem is all around us: high attrition, demoralized employees, nervous employers, and young businesses without the baggage of bureaucracy, cronyism, and without the burden of 'management best practices' are outperforming other companies in the market.  The fact is, in most organizations, every employee is somewhere on the spectrum from "just hired" to "get me outta here".
+Trillions per year.
+
+Most everybody despises their managers.
+
+Even managers despise being managers...and managers despise even each other.  If you're a manager, statistics indicate a 1 in 3 chance that you are currently medicated, drunk, or on vacation to escape the regret and resentment of your daily grind.  Everybody is trying to escape management and and it costs us _all_ huge piles of money...continuously.  Management practices in modern business are not only antiquated and ineffective, but counter-productive and costly.  The evidence of the problem is all around us: high attrition, demoralized employees, nervous employers, and young businesses without the baggage of bureaucracy, cronyism, and without the burden of 'management best practices' are outperforming other companies in the market.  The fact is, in most organizations, every employee is somewhere on the spectrum from "just hired" to "get me outta here".
 
 Let alone the facts presented above...think instead of your own experience.  Have you ever been held to unrealistic deadlines and expectations?  Have you felt that you lacked influence or were excluded from decisions about the way work is organized and performed?  Perhaps you've been upset that your ideas haven't been heard?  Have you felt angry that performance targets seem arbitrary?  And among your workmates...have you felt isolated or unfairly treated?  Perhaps others at work have bullied or harrassed you...sometimes even by an aggressive supervisor?  Perhaps you have felt scrutinized and micro-managed?  Perhaps a manager has taken credit for your work?  Perhaps your compensation or career advancement has suffered due to personal conflict with a manager?  Perhaps you could perform your manager's job better than they could?  Perhaps you have been expected to work long hours and your personal relationship with a partner or child suffered as a result?  Perhaps you have travelled excessive hours away from your family without acknowledgement or fair compensation?  Perhaps you have had to conduct work without access to the appropriate tools, equipment, or resources?  Perhaps you have felt 'in the dark' about the state of the or organisation?  Perhaps you received negative and unjust feedback on your performance?  Perhaps you have been stuck doing the same work for the past 5–10 years without advancement?  Perhaps you work in unhealthy physical conditions?  Perhaps you are fearful of physical violence in the workplace?  Perhaps you are wrapped up in non-stop re-orgs yet nothing improves?  Perhaps you deal with difficult customers or clients and lack the support of your colleagues and supervisors?
 
@@ -31,7 +35,7 @@ Yet, all the above does not describe the actual problem.  All the data merely am
 
 **The problem is that we, society, have no credible idea to change the broken state of the world of work.**
 
-We have been trying for 300+ years[^Years300] to improve management and, after all that time, the results are still dismal and we are no closer to having a clue.  We keep throwing our foreheads against the same brick wall and with each painful blow we expect a different result.  New theories are written and published often.  "Management 3.0" -- or whatever version we're on now!?  Yet none of the known management theories have made lasting, revolutionary impact in the world of work.  None of the known management theories address the root cause of all the misery produced in the workplaces of modern business.  That, dear reader, is the problem.
+We have been trying for 300+ years [^Years300] to improve management and, after all that time, the results are still dismal and we are no closer to having a clue.  We keep throwing our foreheads against the same brick wall and with each painful blow we expect a different result.  New theories are written and published often.  "Management 3.0" -- or whatever version we're on now!?  Yet none of the known management theories have made lasting, revolutionary impact in the world of work.  None of the known management theories address the root cause of all the misery produced in the workplaces of modern business.  That, dear reader, is the problem.
 
 [^Gallup1]: The _State of the Global Workplace_, a study published 2013 by Gallup.  Press release here: [http://www.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx](https://goo.gl/ZI2Sm8)
 
