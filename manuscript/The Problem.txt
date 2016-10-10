@@ -7,7 +7,7 @@
 
 ## Let's Look at the Evidence
 
-Worldwide, 13% of employees are engaged at work.[^Gallup1]
+Worldwide, 13% of employees are engaged at work.^[^Gallup1]^
 
 People leave companies most often to escape their manager.[^Gallup2]
 
