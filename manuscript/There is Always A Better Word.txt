@@ -21,11 +21,17 @@ A colleague said to me recently in an online forum:[^Tobias]
 
 > "Here's a thought... as you preach #NoManagement, I challenge you to live that for a week. Manage nothing, in your work or personal life. Don't manage your spending, your children's activities, your travel plans."
 
+#I went to a session at Agile2016 about self-experimentation. Tobias' comment about trying it yourself for a week reminded me of the session because often managers (and even coaches) tend to experiment on their charges before trying it themselves. Or they conduct them without the explicit permission of the group. 
+
+#leaders who can self-experiment can at times make a more powerful argument for an idea. It involves logging some sort of measurement around a hypothesis and follow the scientific method. Maybe something here?!?
+
 My response:
 
 > Challenge accepted...
 
 > I don't believe that anybody manages their spending, their children's activities, their travel plans.  Instead, to be specific -- to be immaculate with our words -- I 'observe' our spending and 'calculate' the impact upon my family's finances so that I can 'forecast' our future account balances given our spending habits.  I 'consult' with my wife and children about their activities and we 'choose' to which activities we will commit our time and finances.  I 'study' travel options and 'choose' based on schedule, cost, commitments to others, and convenience.  I don't 'manage' any of those things.
+
+#the word I always use is curiosity. The question is can we be intentional about our curiosity? The struggle with your phrasing is it can be a bit to insider-ish. Observing, forecasting, and consulting may fit but I think of those words as my managers use. Instead I would rather be led by someone who is curious about everything going on around him or her. 
 
 My opinion, and the premise of this entire book, is that the above paragraph is much more meaningful and helpful than a phrase like 'time management'.  
 
@@ -39,6 +45,10 @@ I responded:
 
 > Many people will fill that blank with verbs like: hire employees into the company, fire employees, decide and/or influence the salary of others, decide and/or influence others' career opportunities within the company.  All those activities are lazily conflated with the word 'manager.  But to be more precise, those activities are the exclusive authority of an employer.  'Employer' is therefore a better word.
 
+#see my comments at the bottom, but I think there's a thread to pull on with responsibilities. When all the work rests with one person, it carries a burdon that's almost too much for one to handle. As a result, control is used because it is the only way to stay sane when so much has to be handled. What if those types of duties were distributed amongst several people and the load is lighter?
+
 > There are some activities, however, perfectly suited to the word 'manager'.  A person with that job title can_____?  Assign work to others, decide procedure, and determine schedule.  In other words, a 'manager' has authority within a company to _make decisions on behalf of others_ regarding the work they shall perform, how they shall perform it, and when.  In other words, 'manager' is a word specifically used to describe people in a company who are granted authority to exert their will upon others.  That authority in a company is unique to 'manager' roles and the English language has no other word so perfectly suited.  All other authorities and activities of a 'manager' are better described by other words -- and through deduction, when we parse the authorities of management we're left with just one activity for which English has no other words...therefore 'to manage' means 'to control others'.
 
 > My assertion (#NoManagement) is that specific behaviour -- the controlling of other -- is no longer required in world of work.
+
+#there's room here for a discussion on teal organizaitons and how they tend to function without managers. My company -- ThoughtWorks -- does pretty well without traditional managers. Employees are surrounded by enclaves of people who care and are concerned with the success of all those they encounter. Mentors and sponsors are chosen, not assigned. Work is collectively discussed, and roles are always open to who wants the work.
